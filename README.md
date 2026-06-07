@@ -11,7 +11,7 @@ This app is a calm space for you to sit with nature sounds, breathe, and write d
 
 | Platform | Link |
 |---|---|
-| 📦 APK (Android) | [Download from GitHub Releases](https://github.com/Vineetagrawal2005/Anubhuti/releases/latest) |
+| 📦 APK (Android) | [Download from GitHub Releases](https://github.com/Vineetagrawal2005/Anubhuti/commits/v1.0.0) |
 | 💻 Source Code | [github.com/Vineetagrawal2005/Anubhuti](https://github.com/Vineetagrawal2005/Anubhuti) |
 
 > To install the APK, download it to your Android phone and follow the steps in the Install section below.
