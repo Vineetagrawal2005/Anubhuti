@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "audioFile": "forest_focus.mp3",
+    "color": "0xFF4A6741",
+    "suggestedMoods": ["Calm", "Grounded", "Energized"]
+  },
+  {
+    "id": "2",
+    "title": "Rain Calm",
+    "tag": "Calm",
+    "audioFile": "rain_calm.mp3",
+    "color": "0xFF3B5268",
+    "suggestedMoods": ["Calm", "Sleepy", "Grounded"]
+  },
+  {
+    "id": "3",
+    "title": "Ocean Reset",
+    "tag": "Reset",
+    "audioFile": "ocean_reset.mp3",
+    "color": "0xFF2D6068",
+    "suggestedMoods": ["Calm", "Grounded", "Energized"]
+  },
+  {
+    "id": "4",
+    "title": "Night Wind",
+    "tag": "Sleep",
+    "audioFile": "night_wind.mp3",
+    "color": "0xFF283250",
+    "suggestedMoods": ["Sleepy", "Calm", "Grounded"]
+  },
+  {
+    "id": "5",
+    "title": "Morning Mist",
+    "tag": "Focus",
+    "audioFile": "morning_mist.mp3",
+    "color": "0xFF607888",
+    "suggestedMoods": ["Energized", "Grounded", "Calm"]
+  },
+  {
+    "id": "6",
+    "title": "Deep Forest",
+    "tag": "Calm",
+    "audioFile": "deep_forest.mp3",
+    "color": "0xFF233530",
+    "suggestedMoods": ["Grounded", "Calm", "Sleepy"]
+  }
+]
