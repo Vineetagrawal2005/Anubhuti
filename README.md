@@ -176,13 +176,14 @@ Requires Flutter SDK 3.10 or above.
 
 ---
 ## Images Of AnubhutiApp
-<img width="1080" height="2400" alt="WhatsApp Image 2026-06-07 at 11 38 32 PM" src="https://github.com/user-attachments/assets/08df0480-5b28-407f-8487-29170a06b59c" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-07 at 11 38 31 PM" src="https://github.com/user-attachments/assets/efa770fc-d8d3-48af-9ef7-3e9390d583c4" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-06-07 at 11 37 52 PM" src="https://github.com/user-attachments/assets/c2a2d995-f3a4-4485-bee8-5bdc4ae23c78" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-06-07 at 11 37 52 PM (1)" src="https://github.com/user-attachments/assets/f5bc525b-2db3-4523-a0a3-773b797a4b02" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-07 at 11 37 51 PM" src="https://github.com/user-attachments/assets/d4480ed9-af92-4698-b433-d113c0c50b68" />
-<img width="1080" height="2400" alt="WhatsApp Image 2026-06-07 at 11 37 51 PM (1)" src="https://github.com/user-attachments/assets/9a272bd4-ff1c-4c59-9e25-02f59045cd92" />
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-07 at 11 37 50 PM" src="https://github.com/user-attachments/assets/6c92eaa0-6c57-4adb-851f-766aa7fb1827" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/08df0480-5b28-407f-8487-29170a06b59c" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/efa770fc-d8d3-48af-9ef7-3e9390d583c4" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/c2a2d995-f3a4-4485-bee8-5bdc4ae23c78" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/f5bc525b-2db3-4523-a0a3-773b797a4b02" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/d4480ed9-af92-4698-b433-d113c0c50b68" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/9a272bd4-ff1c-4c59-9e25-02f59045cd92" />
+<img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/6c92eaa0-6c57-4adb-851f-766aa7fb1827" />
+
 
 ## 🙏 About
 
