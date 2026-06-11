@@ -174,6 +174,10 @@ flutter run
 
 Requires Flutter SDK 3.10 or above.
 
+
+https://github.com/user-attachments/assets/bb98d9a9-ee7e-48f8-9a8a-56e9443f163b
+
+
 ---
 ## Images Of AnubhutiApp
 <img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/08df0480-5b28-407f-8487-29170a06b59c" />
@@ -183,9 +187,8 @@ Requires Flutter SDK 3.10 or above.
 <img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/6c92eaa0-6c57-4adb-851f-766aa7fb1827" />
 <img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/9a272bd4-ff1c-4c59-9e25-02f59045cd92" />
 <img width="250" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/c2a2d995-f3a4-4485-bee8-5bdc4ae23c78" />
-
-
-
+## Video Of AnubhutiApp
+https://github.com/user-attachments/assets/313b1633-570d-4d99-a273-814abf468d83
 ## 🙏 About
 
 Anubhuti was made with the belief that everyone deserves a quiet moment to feel their feelings — without noise, without distraction.
